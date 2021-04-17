@@ -88,7 +88,7 @@
 - [[O'Reilly Media] Software Architecture Fundamentals Part I [2014, ENG]](https://www.google.com/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+Part+I+[2014,+ENG]")
 - [[O'Reilly Media] Software Architecture Fundamentals Beyond the Basics [2014, ENG]](https://www.google.com/search?q="[O'Reilly+Media]+Software+Architecture+Fundamentals+Beyond+the+Basics+[2014,+ENG]")
 - [[learnvisualstudio.net] Application Architecture Fundamentals [2013, ENG]](https://www.google.com/search?q="[learnvisualstudio.net]+Application+Architecture+Fundamentals+[2013,+ENG]")
-- [[Pluralsight] Developer to Architect [2013, ENG]](https://www.google.com/search?q="[Pluralsight]+Developer+to+Architect+[2013,+ENG]")
+- [[Pluralsight] Developer to Architect [2013, ENG]](https://www.google.com/search?q="[Pluralsight]+Developer+to+Architect+[2013,+ENG]") - Done
 - [[Pluralsight.com / Matthew Renze] Clean Architecture: Patterns, Practices, and Principles [2017, ENG]](https://www.google.com/search?q="[Pluralsight.com+/+Matthew+Renze]+Clean+Architecture:+Patterns,+Practices,+and+Principles+[2017,+ENG]")
 - [IASA's Five Pillars of IT Architecture](https://www.youtube.com/watch?v=DV09cysHu7k)
 - [[OTUS] Архитектор программного обеспечения (2020)](https://www.google.com/search?q="[OTUS]+Архитектор+программного+обеспечения+(2020)")
